@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'Solmedi'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EECE09507971433593E5B04E5A95678A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0E8EDCC49C4A4DD1B6299E8FA11CABEC }}
           package: .
